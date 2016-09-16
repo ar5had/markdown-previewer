@@ -1,0 +1,14 @@
+#textarea {
+  resize: vertical;
+  width: 100%;
+  min-height: 50vh;
+  border: none;
+  background: #efefef;
+  padding: 15px;
+}
+
+#result {
+  max-width: 100%;
+  word-wrap: break-word;
+  padding: 15px;
+}
